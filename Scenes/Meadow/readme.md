@@ -6,4 +6,5 @@ Currently rendering only supports Eevee. Cycles produces really bad results and 
 
 # Attribution
 Clover texture is cc0 and was acquired from here: https://opengameart.org/sites/default/files/oga-textures/clover%201.png
+
 Grass, flower, and rock sprite plates were generated from the free version of Chuck_cg's Natural Set found here: https://chuckcg.gumroad.com/l/joGTC
